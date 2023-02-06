@@ -26,7 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [GitHub Solution](https://github.com/hmark94/qr_code/tree/main/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Netlify App](https://steady-madeleine-91349e.netlify.app/)
 
 ## My process
 
@@ -41,11 +41,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Useful resources
 
-- [Flexbox](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me for the flexbox issue. I really liked this pattern and will use it going forward.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Mark Hatala](https://www.linkedin.com/in/markhatala/)
+- Frontend Mentor - [@hmark94](https://www.frontendmentor.io/profile/hmark94)
+- Personal Page - [@MH](https://cv-portfolio-87576.web.app/)
 
